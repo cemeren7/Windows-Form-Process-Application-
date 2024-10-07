@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\Matematiksel Projem 2\Matematiksel Projem 2\bin\Debug\Matematiksel Projem 2.exe.config
+C:\Users\Lenovo\Desktop\Matematiksel Projem 2\Matematiksel Projem 2\bin\Debug\Matematiksel Projem 2.exe
+C:\Users\Lenovo\Desktop\Matematiksel Projem 2\Matematiksel Projem 2\bin\Debug\Matematiksel Projem 2.pdb
+C:\Users\Lenovo\Desktop\Matematiksel Projem 2\Matematiksel Projem 2\obj\Debug\Matematiksel Projem 2.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Matematiksel Projem 2\Matematiksel Projem 2\obj\Debug\Matematiksel_Projem_2.Form1.resources
+C:\Users\Lenovo\Desktop\Matematiksel Projem 2\Matematiksel Projem 2\obj\Debug\Matematiksel_Projem_2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Matematiksel Projem 2\Matematiksel Projem 2\obj\Debug\Matematiksel Projem 2.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Matematiksel Projem 2\Matematiksel Projem 2\obj\Debug\Matematiksel Projem 2.exe
+C:\Users\Lenovo\Desktop\Matematiksel Projem 2\Matematiksel Projem 2\obj\Debug\Matematiksel Projem 2.pdb
