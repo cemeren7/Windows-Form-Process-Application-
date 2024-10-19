@@ -19,20 +19,17 @@ namespace Matematiksel_Projem_2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double sayı1 = Convert.ToDouble(textBox1.Text); //  Girilen ilk sayıyı textbox 1 den aldık aynı zamanda sayıyı double çevirdik böylece textBox 1 girdigimiz degerin sayı oldugunu anladı
-            double sayı2 = Convert.ToDouble(textBox2.Text); // İkinci sayıyı textBox 2 den aldık
-            double sonuc; // yapacagımız işlemi bu degişkende yapacagız
-
-            if (Toplama.Checked) // toplama radiobutton seçili oldugunda aşagıdaki işlemleri yap 
+            double sayı1 = Convert.ToDouble(textBox1.Text); 
+            double sayı2 = Convert.ToDouble(textBox2.Text);
+            double sonuc;
+            if (Toplama.Checked)
             {
-                sonuc = sayı1 + sayı2; // sayı1 ve sayı2 topla sonuc degişkenine ata
-                textBox3.Text = sonuc.ToString(); // sonuc degişkenine atanan işlemi textBox 3 yazdır
-                this.Text = "Toplama İşlemini Yaptınız:"; // bu işlem yapıldıgı zaman formun başlıgında Toplama İşlemini Yaptınız Yazısı Çıkar
+                sonuc = sayı1 + sayı2; 
+                textBox3.Text = sonuc.ToString();
+                this.Text = "Toplama İşlemini Yaptınız:";
             }
             else if (Cıkarma.Checked)
             {
-                // yukarıda yazdıgım işlemlerin aynısı buradada yapılıyor
-                // toStrıng Kullanarak Sonucu Metine Çevirdik
                 sonuc = sayı1 - sayı2;
                 textBox3.Text = sonuc.ToString();
                 this.Text = "Çıkarma İşlemi Yaptınız: ";
